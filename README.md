@@ -1,6 +1,6 @@
 # Hackathon Projects
 
-### Athena Health MDP
+### Athena Health MDP on 4/24/2016
 #### http://mdphackathon.devpost.com/
 
 https://github.com/RemediIO/NurseBot
@@ -8,7 +8,7 @@ https://github.com/RemediIO/NurseBot
 https://github.com/RemediIO/NurseRemedi
 
 
-### Blockchain Hackathon Sponsored by moovel
+### Blockchain Hackathon Sponsored by moovel on 9/25/2016
 [Eventbrite](https://www.eventbrite.com/e/blockchain-hackathon-sponsored-by-moovel-tickets-26729478590)
 
 [Pitch Deck](https://docs.google.com/presentation/d/1PqNUOxKBmRaxnMcZKtDl2I0-to0t1aVLsKHzm25t43w/pub?start=false&loop=false&delayms=3000&slide=id.g17f005fce6_1_0)
